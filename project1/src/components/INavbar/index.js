@@ -14,7 +14,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['Aboutus', 'Experience', 'Hobbies', 'Qualification', 'Skills' ];
+const pages = ['Aboutus', 'Experience', 'Hobbies', 'Qualification', 'Skills','Contactme','Certifications','Workshop','Projects'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function INavbar() {
